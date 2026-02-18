@@ -1,4 +1,5 @@
- # Here is a new update by Alkakhi
+# Here is another update by Alkakhi
+# Here is a new update by Alkakhi
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
